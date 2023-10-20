@@ -35,16 +35,6 @@ Stay informed with real-time data updates from your IoT hardware, enabling data-
 ### 📱 Responsive Design
 Access your IoT data and insights on the go with our responsive design that adapts to various devices and screen sizes.
 
-## Getting Started 🚀
-
-To get started with our IoT Support Application, follow these steps:
-
-1. **Clone the Repository:**
-2. **Install Dependencies:**
-3. **Start the Application:**
-4. **Access the Dashboard:**
-Open your web browser and visit [http://localhost:3000](http://localhost:3000).
-
 ## Customization 🌈
 
 Tailor the application to your specific needs and evolve your IoT ecosystem with ease. Our flexible platform enables you to add new features and functionalities as your requirements grow.
