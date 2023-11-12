@@ -39,10 +39,6 @@ Access your IoT data and insights on the go with our responsive design that adap
 
 Tailor the application to your specific needs and evolve your IoT ecosystem with ease. Our flexible platform enables you to add new features and functionalities as your requirements grow.
 
-## Support and Feedback 💬
-
-We value your input! If you have questions, feedback, or suggestions, please don't hesitate to reach out to our support team at [support@iot-app.com](mailto:support@iot-app.com).
-
 ## Let's Transform IoT Together! 🌐
 
 Join us in revolutionizing the IoT landscape. Empower your business, explore new possibilities, and make data-driven decisions effortlessly with our IoT Support Application.
